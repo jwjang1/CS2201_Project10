@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kis/CLionProjects/project10/ TextTwist.cpp
+iostream
+-
+string
+-
+Trie.h
+/Users/kis/CLionProjects/project10/Trie.h
+
+/Users/kis/CLionProjects/project10/Trie.h
+string
+-
+fstream
+-
+iostream
+-
+cstddef
+-
+stdexcept
+-
+TrieNode.h
+/Users/kis/CLionProjects/project10/TrieNode.h
+
+/Users/kis/CLionProjects/project10/TrieNode.h
+string
+-
+fstream
+-
+iostream
+-
+cstddef
+-
+stdexcept
+-
+
